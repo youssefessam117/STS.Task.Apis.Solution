@@ -1,0 +1,6 @@
+@STS.Task.Apis_HostAddress = http://localhost:5231
+
+GET {{STS.Task.Apis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
